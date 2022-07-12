@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntelliflowApp</string>
+    <string name="selected_item">Langauge selected:</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+</resources>
