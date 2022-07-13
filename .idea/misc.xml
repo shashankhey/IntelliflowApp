@@ -10,8 +10,11 @@
         <entry key="..\:/IntelliflowApp/app/src/main/res/drawable/icon.xml" value="0.208" />
         <entry key="..\:/IntelliflowApp/app/src/main/res/drawable/login.xml" value="0.208" />
         <entry key="..\:/IntelliflowApp/app/src/main/res/drawable/login_btn.xml" value="0.208" />
+        <entry key="..\:/IntelliflowApp/app/src/main/res/drawable/logo.xml" value="0.121" />
+        <entry key="..\:/IntelliflowApp/app/src/main/res/drawable/r_p.xml" value="0.121" />
+        <entry key="..\:/IntelliflowApp/app/src/main/res/drawable/rectangle_container.xml" value="0.121" />
         <entry key="..\:/IntelliflowApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.2359375" />
-        <entry key="..\:/IntelliflowApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/IntelliflowApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/IntelliflowApp/app/src/main/res/layout/activity_reset_password.xml" value="0.4" />
         <entry key="..\:/IntelliflowApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.208" />
         <entry key="..\:/IntelliflowApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.208" />

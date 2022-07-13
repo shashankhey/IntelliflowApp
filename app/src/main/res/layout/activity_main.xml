@@ -84,13 +84,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/password"
-                android:textSize="12sp"
                 android:layout_alignEnd="@+id/password"
                 android:layout_alignRight="@+id/password"
+                android:layout_marginTop="1.96dp"
                 android:text="Forgot Password?"
                 android:textColor="#0D3C84"
-                android:layout_marginTop="1.96dp"
-                />
+                android:textSize="12sp" />
 
             <Spinner
                 android:id="@+id/language"
@@ -101,11 +100,8 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="30dp"
                 android:background="@drawable/btn_bg"
-                android:paddingLeft="10dp"
-                android:paddingRight="10dp"
-                android:text="English"
-                android:textSize="12sp"
-                />
+                android:entries="@array/languages"
+                 />
 
             <RelativeLayout
                 android:layout_width="match_parent"
